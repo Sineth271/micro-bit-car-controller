@@ -1,5 +1,5 @@
 {
-    "name": "micro-bit car",
+    "name": "micro-bit car controller",
     "description": "",
     "dependencies": {
         "core": "*",
